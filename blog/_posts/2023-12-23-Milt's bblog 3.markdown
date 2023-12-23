@@ -1,8 +1,10 @@
 ---
 layout: modified_post
-title:  "Welcome to Milt's blog post 2!"
+title:  "Milt's Blog 3!"
 date:   2023-12-23 01:21:23 +0530
 categories: jekyll update
+permalink: /:title
+Date: 23-01-2023
 ---
 
 I saw this reel about how you should put 70% effort into your first few months as a new employee so you don’t overdeliver and set super high expectations that are unsustainable.
