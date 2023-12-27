@@ -51,7 +51,10 @@ Travel benefits, hotel memberships
 
 On top of that coins hold no value of its own - use 2000 coins to get 30%, 40% or 70% discount.
 
-        
+<div markdown="1" style="padding: 0px;">
+<img src="/assets/why_cred_coins_are_useless_1.png" alt="Girl in a jacket" width= 380px >
+</div>
+
 
 #### No devaluation of coins
 I opened CRED after 6-7 months to analyse the coin system and to my surprise, coins were still the same(around 80k) when I last used them.
@@ -61,4 +64,6 @@ The whole gamification is like having a treasure chest on a remote deserted isla
 
 I tried to redesign the gamification journey roughly - 
 
-
+<div markdown="1" style="padding: 0px;">
+<img src="/assets/why_cred_coins_are_useless_2.png" alt="Girl in a jacket" width= 380px >
+</div>
