@@ -3,7 +3,7 @@ layout: modified_post
 title:  "Anime Completed"
 date:   2022-09-22 01:21:23 +0530
 categories: jekyll update
-
+permalink: /personal_website/Anime-Completed
 Date: 12-09-2022
 ---
 
