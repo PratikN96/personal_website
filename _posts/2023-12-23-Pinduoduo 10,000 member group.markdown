@@ -3,7 +3,7 @@ layout: modified_post
 title:  "Pinduoduo 10,000 members group"
 date:   2023-12-21 01:21:23 +0530
 categories: jekyll update
-permalink: /:title
+permalink: /personal_website/Pinduoduo-10,000-member-group
 Date: 21-12-2023
 ---
 
