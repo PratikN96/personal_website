@@ -11,7 +11,7 @@ The housing boom in China aftermath the 2008 global financial crises is speculat
 The housing prices are rising tremendously with an average 1,000 square foot apartment in Shanghai going for $725,00. 
 Although this price isn’t surprising for locals in London or New York but what one should divert attention to is the price-to-income ratio.
 
-![Price-income]( ./../assets/price-toincome.jpg)
+![Price-income](/assets/images/price-toincome.jpg)
 
 The price-to-income ratio is by far the highest in China among the major economies and by huge margin. Chinese are buying property in frenzy, many holding more than one house for the sake of investment.  
 
@@ -26,7 +26,7 @@ Firstly, Chinese locals have limited options to invest in order to gain apprecia
 
 In accordance with the socio-economic factors, China invested massively in infrastructure development to diminish the effects of 2008 financial crises. It has also resulted in so called ‘ghost towns’ , fully developed towns with all the required infrastructure but no inhabitants because the prices are too high for people to afford. This has indirectly caused huge corporate debt of China.
 
-![Deposit_rate]( ./../assets/deposit-rate.jpg)
+![Deposit_rate](/assets/images/price-toincome.jpg)
 
 The average annual change in housing prices in Shanghai is around 25% over the last 10 years. The graph shows downward trends after every peak. This is the government intervention to prevent the housing market to burst. Mainland Chinese don’t tend to finance the expensive housing by mortgages instead they pay in installments directly with a fixed down payment. The government cools down the market either by raising the taxes on purchase of second house or by increasing the minimum limit of downpayment. However, such actions are further intensifying the effects of this issue as the prices are gaining new heights every 2-3 quarters.
 
