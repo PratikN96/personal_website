@@ -39,9 +39,8 @@ Along with some political disturbances and underperformance of chaebols, growth 
 
 While the chaebol helped make South Korea an economic success story, many politicians and investors argue that the system is a cultural relic poorly suited to the 21st-century economy. 
 
-<div markdown="1" style="padding: 0px;">
-<img src="/assets/korean-chart.png" alt="Girl in a jacket" width= 380px >
-</div>
+![Korean chart](https://pratikn96.github.io/personal_website/assets/images/korean-chart.jpg)
+
 
 Ordinary South Koreans are also increasingly questioning the consolidation of wealth among a handful of families and the stifling effect they’ve had on small businesses and start-ups. 
 

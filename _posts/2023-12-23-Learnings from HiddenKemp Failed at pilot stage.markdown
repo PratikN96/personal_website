@@ -24,9 +24,7 @@ Now, let’s go through each of the above points in detail
 #### Altering with the natural frequency of user experience
 Observe this small part of the user journey and where HiddenKemp fits in.
 
-<div markdown="1" style="padding: 0px;">
-<img src="/assets/hidden_kemp.jpg" alt="hidden_kemp" width= 380px >
-</div>
+![Hidden Kemp](https://pratikn96.github.io/personal_website/assets/images/hidden_kemp.jpg)
 
 
 HiddenKemp basically removes the event of interaction with locals or fellow travellers. But that event serves as a very crucial part of the overall travel experience

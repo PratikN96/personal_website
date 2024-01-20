@@ -23,9 +23,8 @@ I am only gonna discuss the first user group i.e consumers based in Singapore. T
 
 Grab Super app enables users to cater following services: 
 
-<div markdown="1" style="padding: 0px;">
-<img src="/assets/superapp_saga_of_grab_1.png" alt="Girl in a jacket" width= 380px >
-</div>
+
+![Superapp](https://pratikn96.github.io/personal_website/assets/images/superapp_saga_of_grab_1.jpg)
 
 If we exclude Hotels, Attractions, Invest - the rest all looks like an extension of Grab’s mobility business, a similar pattern can be observed in Uber(US) and recently Swiggy. 
 
@@ -33,9 +32,7 @@ But what makes Grab stand out is its payment section- GrabPay. It is a wallet wh
 
 Combined with Grab’s reward system, which is synced across all its services, creates a powerful flywheel to onboard users, increase ATV( average transaction value) per user and keep adding more services. 
 
-<div markdown="1" style="padding: 0px;">
-<img src="/assets/superapp_saga_of_grab_2.png" alt="Girl in a jacket" width= 380px >
-</div>
+![Superapp](https://pratikn96.github.io/personal_website/assets/images/superapp_saga_of_grab_2.jpg)
 
 
 Excuse the poorly drawn flywheel, but focus on “GrabPay for payment” at the top. Not only does it supplement the current Grab services but also other services like payment at offline stores, tourist attractions, etc. The data collected by these transactions enable Grab to increase its basket of services and also enhance its current services.

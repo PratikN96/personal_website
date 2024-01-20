@@ -8,9 +8,7 @@ Date: 21-12-2023
 ---
 
 
-<div markdown="1" style="padding: 0px;">
-<img src="/assets/pinduoduo_10000_members.jpg" alt="Girl in a jacket" width= 720px >
-</div>
 
+![Pinduduo 10000 member group](https://pratikn96.github.io/personal_website/assets/images/pinduoduo_10000_members.jpg)
 
 Another banger from Pinduoduo! It requires 10,000 members participation to avail discount.

@@ -45,9 +45,9 @@ So, what’s the edge over YouTube or other internet-based ad channels?
 
 It all depends primarily on how much time users spend on these platforms/ apps, the natural purpose of the platform plus a lot of other things.
 
-<div markdown="1" style="padding: 0px;">
-<img src="/assets/whats_up_with_netflix_advertisement.jpg" alt="Girl in a jacket" width= 380px >
-</div>
+
+
+![Neflix](https://pratikn96.github.io/personal_website/assets/images/whats_up_with_netflix_advertisement.jpg)
 
 Clearly, Netflix wins here. And given the purpose of users being leisurely, and relaxing while binging Netflix, ads are more receptive.
 
