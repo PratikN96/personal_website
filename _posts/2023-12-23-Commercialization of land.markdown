@@ -11,7 +11,7 @@ The housing boom in China aftermath the 2008 global financial crises is speculat
 The housing prices are rising tremendously with an average 1,000 square foot apartment in Shanghai going for $725,00. 
 Although this price isn’t surprising for locals in London or New York but what one should divert attention to is the price-to-income ratio.
 
-![Price-income](/assets/images/price-toincome.jpg)
+![Price-income](https://pratikn96.github.io/personal_website/assets/images/price-toincome.jpg)
 
 The price-to-income ratio is by far the highest in China among the major economies and by huge margin. Chinese are buying property in frenzy, many holding more than one house for the sake of investment.  
 
